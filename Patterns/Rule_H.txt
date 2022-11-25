@@ -1,0 +1,2 @@
+A:A[-FFF][+FFF]FA
+F:FFA[+F][-F]
